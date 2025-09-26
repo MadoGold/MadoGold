@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="./assets/giphyy.gif" width="30" alt="email"> **Email:** [madogold2002@gmail.com](mailto:madogold2002@gmail.com)
+<img src="./assets/giphyy.gif" width="30" alt="email"> **Email:** [madogold2002@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=madogold2002@gmail.com)
 
 <img src="./assets/telegram-gif.gif" width="30" alt="telegram"> **Telegram:** [@ww_kon](https://t.me/ww_kon)
 
