@@ -29,9 +29,24 @@
 
 <div align="center">
 
-<img src="./assets/giphyy.gif" width="30" alt="email" style="vertical-align: middle;"> **Email:** [madogold2002@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=madogold2002@gmail.com)
-
-<img src="./assets/telegram-gif.gif" width="30" alt="telegram" style="vertical-align: middle;"> **Telegram:** [@ww_kon](https://t.me/ww_kon)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./assets/giphyy.gif" width="30" alt="email">
+    </td>
+    <td align="left">
+      <strong>Email:</strong> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=madogold2002@gmail.com">madogold2002@gmail.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/telegram-gif.gif" width="30" alt="telegram">
+    </td>
+    <td align="left">
+      <strong>Telegram:</strong> <a href="https://t.me/ww_kon">@ww_kon</a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
