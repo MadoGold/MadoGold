@@ -27,20 +27,13 @@
 
 ### 📞 Direct Contact
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="./assets/giphyy.gif" width="30" alt="email"><br>
-      <strong>Email</strong><br>
-      <a href="mailto:madogold2002@gmail.com">madogold2002@gmail.com</a>
-    </td>
-    <td align="center">
-      <img src="./assets/telegram-gif.gif" width="30" alt="telegram"><br>
-      <strong>Telegram</strong><br>
-      <a href="https://t.me/ww_kon">@ww_kon</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="./assets/giphyy.gif" width="30" alt="email"> **Email:** [madogold2002@gmail.com](mailto:madogold2002@gmail.com)
+
+<img src="./assets/telegram-gif.gif" width="30" alt="telegram"> **Telegram:** [@ww_kon](https://t.me/ww_kon)
+
+</div>
 
 </div>
 
