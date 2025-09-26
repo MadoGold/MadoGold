@@ -1,6 +1,5 @@
-# 👋 Hello, world! I'm Vladimir
+# 👋 Hello, world! I'm Vladimir<div align="center">
 
-<div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25" alt="wave">
 </div>
 
@@ -15,10 +14,6 @@
 ## 🚀 About Me
 
 👋 **Frontend Developer** with expertise in **React** and **Next.js**. I bring creative ideas and dynamism to web projects.
-
-💻 While I primarily focus on frontend development, my skills also include **Node.js** and **MongoDB**. I'm ready to collaborate across the full stack.
-
-🎨 Specializing in crafting aesthetic and functional websites on **Tilda** and **WordPress** for swift business solutions.
 
 **Let's bring your ideas to life!**
 
