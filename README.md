@@ -20,11 +20,27 @@
 
 <div align="center">
 
+### 🔗 Social Links
+
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/ww_kon)
 [![CodeWars](https://img.shields.io/badge/-CodeWars-red?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/madogold)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madogold2002@gmail.com)
 
-<img src="./assets/giphyy.gif" width="30" alt="contact"> **How to reach me:** madogold2002@gmail.com
+### 📞 Direct Contact
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./assets/giphyy.gif" width="30" alt="email"><br>
+      <strong>Email</strong><br>
+      <a href="mailto:madogold2002@gmail.com">madogold2002@gmail.com</a>
+    </td>
+    <td align="center">
+      <img src="./assets/telegram-gif.gif" width="30" alt="telegram"><br>
+      <strong>Telegram</strong><br>
+      <a href="https://t.me/ww_kon">@ww_kon</a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
