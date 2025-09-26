@@ -27,7 +27,7 @@
 
 ### 📞 Direct Contact
 
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <img src="./assets/giphyy.gif" width="30" alt="email"><br>
