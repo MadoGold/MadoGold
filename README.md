@@ -29,20 +29,20 @@
 
 <div align="center">
 
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; background: transparent;">
   <tr>
-    <td align="center">
+    <td align="center" style="border: none; background: transparent; padding: 5px;">
       <img src="./assets/giphyy.gif" width="30" alt="email">
     </td>
-    <td align="left">
+    <td align="left" style="border: none; background: transparent; padding: 5px;">
       <strong>Email:</strong> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=madogold2002@gmail.com">madogold2002@gmail.com</a>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="border: none; background: transparent; padding: 5px;">
       <img src="./assets/telegram-gif.gif" width="30" alt="telegram">
     </td>
-    <td align="left">
+    <td align="left" style="border: none; background: transparent; padding: 5px;">
       <strong>Telegram:</strong> <a href="https://t.me/ww_kon">@ww_kon</a>
     </td>
   </tr>
