@@ -42,7 +42,7 @@
 ## 💻 CodeWars Profile
 
 <div align="center">
-  <img src="https://www.codewars.com/users/madogold/badges/large" alt="CodeWars Badge">
+  <img src="https://www.codewars.com/users/MadoGold/badges/large" alt="CodeWars Badge">
 </div>
 
 ---
